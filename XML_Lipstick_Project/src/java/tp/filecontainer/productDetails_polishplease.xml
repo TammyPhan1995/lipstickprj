@@ -1,0 +1,41 @@
+<product>
+								<img itemprop="image" src="http://polishplease.ph/8867-large_default/captivate-me-essie-gel-couture-nail-polish.jpg" title="Captivate Me (Essie Gel Couture Nail Polish)" alt="Captivate Me (Essie Gel Couture Nail Polish)"/>
+			<h1 itemprop="name">Captivate Me (Essie Gel Couture Nail Polish)</h1>
+<!-- product name-->		<span id="loyalty_price">₱ 3.00</span>.
+							<!-- Data sheet -->
+			<section id="tab3" class="tab-pane page-product-box">
+				
+				<table class="table-data-sheet">			
+										<tr class="odd">
+									    
+						<td>Brand</td>
+						<td>Essie</td>
+											</tr>
+										<tr class="even">
+									    
+						<td>Collection</td>
+						<td>Fall 2017</td>
+											</tr>
+										<tr class="odd">
+									    
+						<td>Content</td>
+						<td>13 ml.</td>
+											</tr>
+										<tr class="even">
+									    
+						<td>Color Family</td>
+						<td>Nudes</td>
+											</tr>
+										<tr class="odd">
+									    
+						<td>Color Finish</td>
+						<td>Cream</td>
+											</tr>
+										<tr class="even">
+									    
+						<td>Color Tone</td>
+						<td>Warm</td>
+											</tr>
+									</table>
+			</section>
+</product>
